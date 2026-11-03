@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Anjali Pesari<br>💻 Aspiring Data Analyst | B.Tech CSE (AI & ML)<br>📊 Passionate about Data Analytics and Data Visualization.<br>🛠️ **Skills:** SQL • Python • Excel • Power BI • Tableau • Statistics<br>🌱 Currently improving my analytical and technical skills through hands-on projects.<br>🎯 Turning Data into Meaningful Insights! 🚀
+## 👋 Hi, I'm Anjali Pesari<br>💻 Aspiring Data Analyst | B.Tech CSE (AI & ML)<br>📊 Passionate about Data Analytics and Data Visualization.<br>🛠️ **Skills:** SQL • Python • Excel • Power BI • Tableau • Statistics<br>🌱 Currently improving my analytical and technical skills through hands-on projects.<br>🎯 Turning Data into Meaningful Insights! 🚀
 
 
 ## 🌐 Socials:
